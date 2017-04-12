@@ -1,7 +1,5 @@
 # Geb Lab Project
 
-[![Build Status][build_status]](https://snap-ci.com/geb/geb-example-gradle/branch/master)
-
 ## Description
 
 http://qajungle.com
